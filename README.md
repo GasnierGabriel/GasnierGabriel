@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabriel Gasnier
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email : gasnier.gabriel@outlook.com
 
 <!---
