@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel Gasnier
+- 👋 Hi, I’m Gabriel Gasnier, student at ECE Paris
 - 👀 I’m interested in programation
 - 🌱 I’m currently learning python and machine learning
 - 📫 How to reach me : email : gasnier.gabriel@outlook.com
